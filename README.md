@@ -1,5 +1,6 @@
 # SemanticViewSelection_dataset
 
+<<<<<<< HEAD
 All the images composing the dataset can be downloaded at the following link: https://goo.gl/D9Ni34
 
 ### 1. TITLE: 
@@ -49,3 +50,7 @@ If you find this dataset useful in your research, please consider citing:
 	  journal={arXiv preprint arXiv:1807.10303},
 	  year={2018}
 	}
+=======
+All the images composing the dataset can be downloaded at the following link:
+https://goo.gl/D9Ni34
+>>>>>>> bdde1493142af3dba9c8b522bb48f5a00edcd484
