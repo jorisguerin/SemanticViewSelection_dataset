@@ -1,6 +1,6 @@
 # SemanticViewSelection_dataset
 
-All the images composing the dataset can be downloaded at the following link: https://goo.gl/D9Ni34
+All the images composing the dataset can be downloaded at the following link: https://drive.google.com/file/d/12x1sxs_Xy-4bi1LaBHBj58uz7EFzTKJf/view?usp=sharing
 
 ### 1. TITLE: 
 
