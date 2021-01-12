@@ -46,7 +46,7 @@ If you find this dataset useful in your research, please consider citing:
   	title        = {Semantically Meaningful View Selection},
   	author       = {Gu{\'e}rin, Joris and Gibaru, Olivier and Nyiri, Eric and Thieryl, Stephane and Boots, Byron},
   	booktitle    = {2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
- 	 pages        = {1061--1066},
- 	 year         = {2018},
+ 	pages        = {1061--1066},
+ 	year         = {2018},
   	organization = {IEEE}
 	} 
