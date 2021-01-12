@@ -1,6 +1,6 @@
 # SemanticViewSelection_dataset
 
-All the images composing the dataset can be downloaded at the following link: https://drive.google.com/file/d/12x1sxs_Xy-4bi1LaBHBj58uz7EFzTKJf/view?usp=sharing
+All the images composing the dataset can be downloaded at the following link: https://figshare.com/articles/dataset/Semantic_View_Selection_dataset/13554047
 
 ### 1. TITLE: 
 
@@ -42,9 +42,11 @@ The image folder is organized in subfolders which represent, in descending order
 
 If you find this dataset useful in your research, please consider citing:
 
-      @article{guerin2018smvs,
-	  title={Semantically Meaningful View Selection},
-	  author={Gu{\'e}rin, Joris and Gibaru, Olivier and Nyiri Eric and Thiery St{\'e}phane and Boots, Byron},
-	  journal={arXiv preprint arXiv:1807.10303},
-	  year={2018}
-	}
+      @inproceedings{guerin2018semantically,
+  	title        = {Semantically Meaningful View Selection},
+  	author       = {Gu{\'e}rin, Joris and Gibaru, Olivier and Nyiri, Eric and Thieryl, Stephane and Boots, Byron},
+  	booktitle    = {2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+ 	 pages        = {1061--1066},
+ 	 year         = {2018},
+  	organization = {IEEE}
+	} 
